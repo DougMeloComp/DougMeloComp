@@ -13,7 +13,7 @@
   
 <div>
   <a href="https://www.instagram.com/douglas_melo_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https:https://www.linkedin.com/in/douglas-melo-48b4a7179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https:https://www.linkedin.com/in/douglasap-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 ![Snake animation](https://github.com/DougMeloComp/DougMeloComp/blob/output/github-contribution-grid-snake.svg)
