@@ -2,6 +2,7 @@
 
 - :wrench: Técnico em eletrônica
 - :computer: Formado em Engenharia de Computação
+- 🌱 Em constante evolução
 
  <div>
   <a href="https://beacons.ai/DougMeloComp">
