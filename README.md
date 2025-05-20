@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Douglas Melo
 
-- 🔭 Hoje faço estágio na área de TI
-- 🌱 Estudando Engenharia de Computação
+- :wrench: Técnico em eletrônica
+- :computer: Formado em Engenharia de Computação
 
  <div>
   <a href="https://beacons.ai/DougMeloComp">
